@@ -1,2 +1,2 @@
 # shipping-service
-Used for CLoud Natice Bootcamp
+Used for Cloud Native Bootcamp
